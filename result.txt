@@ -1,0 +1,47 @@
+Error: =
+Error: ;
+Error: =
+Error: ;
+Error: ;
+Error: =
+Error: =
+Error: .
+Error: ;
+keyword : void
+identifier : main
+( : (
+( : )
+{ : {
+keyword : int
+identifier : sum
+num : 0
+keyword : for
+( : (
+keyword : int
+identifier : j
+num : 0
+identifier : j
+relop : <
+num : 10
+identifier : j
+identifier : j
+addop : +
+num : 1
+( : )
+{ : {
+identifier : sum
+identifier : sum
+addop : +
+identifier : j
+addop : +
+num : 10.43
+addop : +
+num : 34E4
+addop : +
+num : 45.34E-4
+addop : +
+identifier : E43
+addop : +
+num : 34
+} : }
+} : }
